@@ -1,8 +1,0 @@
-body {
-    background: #eef0f2;
-    margin: 0px;
-  }
-  
-  /* bootstrap-demo is a custom classname to increases the specificity of our styles. It can be anything. 
-   * The idea is that it is easy to extend/override builtin styles with very little effort.
-   */
